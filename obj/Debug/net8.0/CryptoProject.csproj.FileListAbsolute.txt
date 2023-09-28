@@ -1,0 +1,14 @@
+C:\Users\Miran\RiderProjects\CryptoProject\obj\Debug\net8.0\CryptoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miran\RiderProjects\CryptoProject\obj\Debug\net8.0\CryptoProject.AssemblyInfoInputs.cache
+C:\Users\Miran\RiderProjects\CryptoProject\obj\Debug\net8.0\CryptoProject.AssemblyInfo.cs
+C:\Users\Miran\RiderProjects\CryptoProject\obj\Debug\net8.0\CryptoProject.csproj.CoreCompileInputs.cache
+C:\Users\Miran\RiderProjects\CryptoProject\bin\Debug\net8.0\CryptoProject.exe
+C:\Users\Miran\RiderProjects\CryptoProject\bin\Debug\net8.0\CryptoProject.deps.json
+C:\Users\Miran\RiderProjects\CryptoProject\bin\Debug\net8.0\CryptoProject.runtimeconfig.json
+C:\Users\Miran\RiderProjects\CryptoProject\bin\Debug\net8.0\CryptoProject.dll
+C:\Users\Miran\RiderProjects\CryptoProject\bin\Debug\net8.0\CryptoProject.pdb
+C:\Users\Miran\RiderProjects\CryptoProject\obj\Debug\net8.0\CryptoProject.dll
+C:\Users\Miran\RiderProjects\CryptoProject\obj\Debug\net8.0\refint\CryptoProject.dll
+C:\Users\Miran\RiderProjects\CryptoProject\obj\Debug\net8.0\CryptoProject.pdb
+C:\Users\Miran\RiderProjects\CryptoProject\obj\Debug\net8.0\CryptoProject.genruntimeconfig.cache
+C:\Users\Miran\RiderProjects\CryptoProject\obj\Debug\net8.0\ref\CryptoProject.dll
